@@ -1,3 +1,8 @@
+# Dataset and outputs
+
+DomainToText_AMLProject/outputs
+DomainToText_AMLProject/PACS
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
