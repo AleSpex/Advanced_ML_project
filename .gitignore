@@ -1,7 +1,7 @@
 # Dataset and outputs
 
-DomainToText_AMLProject/outputs
-DomainToText_AMLProject/PACS
+DomainToText_AMLProject/outputs/
+DomainToText_AMLProject/PACS/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
