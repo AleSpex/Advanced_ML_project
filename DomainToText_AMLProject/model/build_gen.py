@@ -1,4 +1,4 @@
-import resnet18.py
+import resnet18
 
 
 def Generator():
