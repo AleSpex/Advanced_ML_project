@@ -1,0 +1,15 @@
+{  
+    "ArtPainting": {  
+        "pic_001.jpg": {
+            "Level of details": "mid-level",
+            "Edges": "intense, solid yet trembling lines",
+            "Color saturation": "mid",
+            "Color shades": "yes, colorful",
+            "Background": "cream-colored with some shades of gray",
+            "Single instance": "yes",
+            "Text": "no",
+            "Texture": "yes, painting",
+            "Perspective": "yes, realistic"
+        }
+    }  
+}  
