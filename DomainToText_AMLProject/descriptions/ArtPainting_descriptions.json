@@ -678,6 +678,255 @@
                 "Texture": "yes, painting",
                 "Perspective": "yes, realistic"
             }
+        },
+        "Giraffe": {
+            "pic_121.jpg": {
+                "Level of details": "high",
+                "Edges": "precise brush strokes",
+                "Color saturation": "low",
+                "Color shades": "yes, colorful",
+                "Background": "green-colored with shades of red, yellow and blue",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_091.jpg": {
+                "Level of details": "high",
+                "Edges": "precise brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "white-colored with shades of red and yellow",
+                "Single instance": "no, four",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_278.jpg": {
+                "Level of details": "low",
+                "Edges": "definite black lines",
+                "Color saturation": "low",
+                "Color shades": "yes, colorful",
+                "Background": "gray-colored with shades of blue and a beige frame",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "no",
+                "Perspective": "yes, realistic"
+            },
+            "pic_198.jpg": {
+                "Level of details": "low",
+                "Edges": "precise brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "green-colored with shades of yellow",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "no",
+                "Perspective": "no, unrealistic"
+            },
+            "pic_105.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "red-colored on the lower zone, blue-colored with white parts on the center zone, red and blue colored on the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_140.jpg": {
+                "Level of details": "mid",
+                "Edges": "trembling brusg strokes",
+                "Color saturation": "mid",
+                "Color shades": "yes, colorful",
+                "Background": "light blue colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_023.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "yellow-colored with shades of green on the lower zone, green-colored with shades of yellow and gray parts on the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_164.jpg": {
+                "Level of details": "high",
+                "Edges": "precise black lines",
+                "Color saturation": "low",
+                "Color shades": "yes, grayscale",
+                "Background": "brown-colored on the lower zone, blue-colored with shades of brown on the center and upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_125.jpg": {
+                "Level of details": "mid",
+                "Edges": "neat brush strokes",
+                "Color saturation": "mid",
+                "Color shades": "yes, colorful",
+                "Background": "white-colored with orange parts",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_005.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "yellow-colored with white shades and a blue-colored with red and green shades part on the right zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_159.jpg": {
+                "Level of details": "mid",
+                "Edges": "imprecise brush strokes",
+                "Color saturation": "low",
+                "Color shades": "yes, grayscale",
+                "Background": "gray-colored with white shades",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_152.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "black, red, yellow, green, blue and purple colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_155.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "red-colored with shades of orange, black and yellow",
+                "Single instance": "yes",
+                "Text": "yes, dense text",
+                "Texture": "yes, painting",
+                "Perspective": "no, unrealistic"
+            },
+            "pic_195.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "yellow-colored with white shades",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            }
+        },
+        "Horse": {
+            "pic_034.jpg": {
+                "Level of details": "high",
+                "Edges": "precise lines",
+                "Color saturation": "low",
+                "Color shades": "yes, grayscale",
+                "Background": "brown-colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_134.jpg": {
+                "Level of details": "mid",
+                "Edges": "trembling brush strokes",
+                "Color saturation": "mid",
+                "Color shades": "yes, colorful",
+                "Background": "yellow-colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_049.jpg": {
+                "Level of details": "mid",
+                "Edges": "neat brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "None",
+                "Single instance": "yes",
+                "Text": "yes, dense text",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_053.jpg": {
+                "Level of details": "high",
+                "Edges": "precise lines",
+                "Color saturation": "low",
+                "Color shades": "no",
+                "Background": "brown-colored on the lower zone, green and light blue colored on the upper zone",
+                "Single instance": "yes",
+                "Text": "yes, dense text",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_122.jpg": {
+                "Level of details": "mid",
+                "Edges": "neat brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "blue and yellow colored",
+                "Single instance": "no, two",
+                "Text": "yes, dense text",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_031.jpg": {
+                "Level of details": "high",
+                "Edges": "neat brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "black-colored",
+                "Single instance": "yes",
+                "Text": "yes, dense text",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_173.jpg": {
+                "Level of details": "mid",
+                "Edges": "neat brush strokes",
+                "Color saturation": "high",
+                "Color shades": "yes, colorful",
+                "Background": "green-colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "yes, realistic"
+            },
+            "pic_229.jpg": {
+                "Level of details": "mid",
+                "Edges": "precise lines",
+                "Color saturation": "low",
+                "Color shades": "no",
+                "Background": "yellow-colored with shdes of brown",
+                "Single instance": "no, four",
+                "Text": "no",
+                "Texture": "yes, painting",
+                "Perspective": "no, unrealistic"
+            }
+        },
+        "Elephant": {
+            
         }
     }  
 }  
