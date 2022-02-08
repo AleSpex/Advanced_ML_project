@@ -110,6 +110,138 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "yes, realistic"
+            },
+            "pic_061.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue in the upper zone, green and white in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_140.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green in the lower zone, light blue and white in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_111.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue and white in the upper zone, green in the middle and white in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_181.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue in the upper zone, green on the sides and shades of gray in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_144.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "blue in the upper zone, green on the right and in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_286.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of green and light blue in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_104.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "blue and white in the upper zone, shades of green and yellow and gray in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_067.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "blue in the upper zone, green and yellow in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_056.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue and white in the upper zone, shades of green, gray and brown in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_273.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of blue and green",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_003.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green in the lower zone, blue and white in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "pic_264.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue in the upper zone, green in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
             }
         },
         "Giraffe": {
@@ -185,6 +317,50 @@
                 "Color saturation": "mid",
                 "Color shades": "no",
                 "Background": "green and brown colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02439033_10130.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of yellow and gray",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02439033_14121.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of green",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "084_0033.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02439033_569.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of brown",
                 "Single instance": "yes",
                 "Text": "no",
                 "Texture": "yes, photo",
@@ -301,6 +477,127 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "yes, realistic"
+            },
+            "253_0146.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "brown on the right zone and dark green on the left zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0173.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white with shades of brown and black on the right",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0149.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of orange, light blue and white",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0385.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white with shades of orange, yellow, red and black in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0220.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "gray with shades of green",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0268.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white in the upper zone and light blue in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0399.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white and shades of brown in the right zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0345.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white with shades of brown and gray",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0233.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of white, gray, black and yellow",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0139.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "brown, orange, white, yellow and shades of light blue",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "253_0227.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white on the left zone and shades of gray, green and yellow on the right zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
             }
         },
         "Elephant": {
@@ -380,7 +677,73 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "yes, realistic"
-            }            
+            },
+            "064_0072.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of green in the upper zone, light yellow in the lower zone",
+                "Single instance": "no, three",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02503517_4253.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green in the upper zone, brown in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "064_0124.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green in the lower zone, light blue with shades of gray in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "064_0127.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "grayscale",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "064_0006.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light yellow in the lower zone, light blue in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "064_0038.jpg": {
+                "Level of details": "mid-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of gray in the lower zone, shades of yellow and orange and green in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            }       
         },
         "Horse": {
             "105_0181.jpg": {
@@ -448,6 +811,83 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "yes, realistic"
+            },
+            "105_0071.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of green",
+                "Single instance": "no, four",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "105_0099.jpg": {
+                "Level of details": "mid-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "shades of gray",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "105_0175.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "gray and green in the upper zone, shades of blue and green in the lower zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02374451_2733.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green in the lower zone, white in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02374451_14399.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "brown with shades of greeh in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "105_0196.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "105_0269.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
             }
         },
         "Dog": {
@@ -479,6 +919,83 @@
                 "Color saturation": "mid",
                 "Color shades": "no",
                 "Background": "brown and green colored",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "056_0084.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green with shades of yellow and white",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "056_0097.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "brown with shades of green",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "056_0054.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "cream-colored with shades of pink and yellow on the left zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "056_0041.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light brown in the lower zone, blue and white in the upper zone",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "056_0098.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "green and brown",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02109525_5013.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light blue",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02103406_5224.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "white",
                 "Single instance": "yes",
                 "Text": "no",
                 "Texture": "yes, photo",
@@ -551,6 +1068,39 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "no, unrealistic"
+            },
+            "n03272010_5483.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light gray",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "n02676566_4058.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "blue",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
+            },
+            "063_0062.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "dark gray",
+                "Single instance": "no, seven",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
             }
         }
     }
