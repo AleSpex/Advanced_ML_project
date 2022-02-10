@@ -1,6 +1,6 @@
 {  
-    "Sketch": {  
-        "sketch/dog/n02106662_18402-2.png": {
+    "dog": {  
+        "n02106662_18402-2.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -11,7 +11,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02103406_2706-9.png": {
+        "n02103406_2706-9.png": {
             "Level of details": "low-level",
             "Edges": "solid yet trembling lines",
             "Color saturation": "low",
@@ -22,7 +22,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02106662_928-11.png": {
+        "n02106662_928-11.png": {
             "Level of details": "low-level",
             "Edges": "imprecise trembling lines",
             "Color saturation": "low",
@@ -33,7 +33,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/5322.png": {
+        "5322.png": {
             "Level of details": "low-level",
             "Edges": "neat trembling lines",
             "Color saturation": "low",
@@ -44,7 +44,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02106662_15858-5.png": {
+        "n02106662_15858-5.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -55,7 +55,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02109525_6693-3.png": {
+        "n02109525_6693-3.png": {
             "Level of details": "mid-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -66,7 +66,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_8421-1.png": {
+        "n02103406_8421-1.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -77,7 +77,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_8362-4.png": {
+        "n02103406_8362-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -88,7 +88,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_6530-2.png": {
+        "n02103406_6530-2.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -99,7 +99,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/5317.png": {
+        "5317.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -110,7 +110,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_5505-2.png": {
+        "n02103406_5505-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -121,7 +121,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_2706-1.png": {
+        "n02103406_2706-1.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -132,7 +132,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_7521-3.png": {
+        "n02103406_7521-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -143,7 +143,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02103406_371-7.png": {
+        "n02103406_371-7.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -154,7 +154,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02109525_12875-2.png": {
+        "n02109525_12875-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -165,7 +165,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_3132-7.png": {
+        "n02103406_3132-7.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -176,7 +176,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_1247-6.png": {
+        "n02103406_1247-6.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -187,7 +187,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_5601-3.png": {
+        "n02103406_5601-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -198,7 +198,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02103406_3255-3.png": {
+        "n02103406_3255-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -209,7 +209,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02109525_9037-7.png": {
+        "n02109525_9037-7.png": {
             "Level of details": "low-level",
             "Edges": "imprecise trembling lines",
             "Color saturation": "low",
@@ -220,7 +220,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02106662_5001-6.png": {
+        "n02106662_5001-6.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -231,7 +231,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_6688-9.png": {
+        "n02103406_6688-9.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -242,7 +242,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/5297.png": {
+        "5297.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -253,7 +253,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02106662_928-2.png": {
+        "n02106662_928-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -264,7 +264,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02106662_1922-3.png": {
+        "n02106662_1922-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -275,7 +275,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_1138-4.png": {
+        "n02103406_1138-4.png": {
             "Level of details": "low-level",
             "Edges": "neat trembling lines",
             "Color saturation": "low",
@@ -286,7 +286,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02106662_5001-4.png": {
+        "n02106662_5001-4.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -297,7 +297,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02109525_5013-1.png": {
+        "n02109525_5013-1.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -308,7 +308,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/dog/n02103406_8362-3.png": {
+        "n02103406_8362-3.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -319,7 +319,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/dog/n02103406_3326-8.png": {
+        "n02103406_3326-8.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -329,8 +329,10 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
-        },
-        "sketch/person/12187.png": {
+        }
+    },
+    "person":{
+        "12187.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -341,7 +343,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/person/12115.png": {
+        "12115.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -352,7 +354,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/person/12195.png": {
+        "12195.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -363,7 +365,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/person/12167.png": {
+        "12167.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -373,8 +375,10 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
-        },
-        "sketch/house/8873.png": {
+        }
+    },
+    "house":{
+        "8873.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -385,7 +389,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/house/8848.png": {
+        "8848.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -395,8 +399,10 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "yes, realistic"
-        },
-        "sketch/elephant/n02503517_2547-6.png": {
+        }
+    },
+    "elephant":{
+        "n02503517_2547-6.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -407,7 +413,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/elephant/n02503517_9241-4.png": {
+        "n02503517_9241-4.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -418,7 +424,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_2993-9.png": {
+        "n02503517_2993-9.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -429,7 +435,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_8137-5.png": {
+        "n02503517_8137-5.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -440,7 +446,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_9421-4.png": {
+        "n02503517_9421-4.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -451,7 +457,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_3879-2.png": {
+        "n02503517_3879-2.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -462,7 +468,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_6624-4.png": {
+        "n02503517_6624-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -473,7 +479,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_2802-2.png": {
+        "n02503517_2802-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -484,7 +490,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_7592-3.png": {
+        "n02503517_7592-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -495,7 +501,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_7173-5.png": {
+        "n02503517_7173-5.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -506,7 +512,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/elephant/n02503517_8222-3.png": {
+        "n02503517_8222-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -517,7 +523,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_5418-8.png": {
+        "n02503517_5418-8.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -528,7 +534,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_2993-1.png": {
+        "n02503517_2993-1.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -539,7 +545,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_6661-2.png": {
+        "n02503517_6661-2.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -550,7 +556,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_9827-7.png": {
+        "n02503517_9827-7.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -561,7 +567,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_9270-7.png": {
+        "n02503517_9270-7.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -572,7 +578,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/elephant/n02503517_792-4.png": {
+        "n02503517_792-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -582,8 +588,10 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
-        },
-        "sketch/giraffe/n02439033_9472-5.png": {
+        }
+    },
+        "giraffe": {
+        "n02439033_9472-5.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -594,7 +602,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_10919-4.png": {
+        "n02439033_10919-4.png": {
             "Level of details": "low-level",
             "Edges": "trembling lines",
             "Color saturation": "low",
@@ -605,7 +613,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
             },
-        "sketch/giraffe/n02439033_5004-1.png": {
+        "n02439033_5004-1.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -616,7 +624,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_16085-3.png": {
+        "n02439033_16085-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -627,7 +635,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_15005-5.png": {
+        "n02439033_15005-5.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -638,7 +646,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_14040-6.png": {
+        "n02439033_14040-6.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -649,7 +657,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_15540-6.png": {
+        "n02439033_15540-6.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -660,7 +668,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
             },
-        "sketch/giraffe/n02439033_2486-6.png": {
+        "n02439033_2486-6.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -671,7 +679,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_67-4.png": {
+        "n02439033_67-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -682,7 +690,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_628-2.png": {
+        "n02439033_628-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -693,7 +701,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_11059-1.png": {
+        "n02439033_11059-1.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -704,7 +712,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_15555-4.png": {
+        "n02439033_15555-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -715,7 +723,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_1327-4.png": {
+        "n02439033_1327-4.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -726,7 +734,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_991-2.png": {
+        "n02439033_991-2.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -737,7 +745,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
             },
-        "sketch/giraffe/n02439033_12413-4.png": {
+        "n02439033_12413-4.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -747,8 +755,10 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
-            },
-        "sketch/guitar/n03467517_6423-2.png": {
+            }
+        },
+        "guitar":{
+        "n03467517_6423-2.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -759,7 +769,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/guitar/n03467517_12925-5.png": {
+        "n03467517_12925-5.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -770,7 +780,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n02676566_4469-5.png": {
+        "n02676566_4469-5.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -781,7 +791,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n02676566_9254-3.png": {
+        "n02676566_9254-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -792,7 +802,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n02676566_4058-1.png": {
+        "n02676566_4058-1.png": {
             "Level of details": "mid-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -803,7 +813,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/guitar/n02676566_6704-3.png": {
+        "n02676566_6704-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -814,7 +824,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n03272010_6718-3.png": {
+        "n03272010_6718-3.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -825,7 +835,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/guitar/n03467517_22785-1.png": {
+        "n03467517_22785-1.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -836,7 +846,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n02676566_4605-1.png": {
+        "n02676566_4605-1.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -847,7 +857,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/7607.png": {
+        "7607.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -858,7 +868,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/7614.png": {
+        "7614.png": {
             "Level of details": "mid-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -869,7 +879,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/guitar/n02676566_9243-4.png": {
+        "n02676566_9243-4.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -879,8 +889,9 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "yes, realistic"
-        },
-        "sketch/horse/n02374451_490-3.png": {
+        }},
+        "horse":{
+        "n02374451_490-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -891,7 +902,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_12230-4.png": {
+        "n02374451_12230-4.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -902,7 +913,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_11894-3.png": {
+        "n02374451_11894-3.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -913,7 +924,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_15440-6.png": {
+        "n02374451_15440-6.png": {
             "Level of details": "low-level",
             "Edges": "neat imprecise lines",
             "Color saturation": "low",
@@ -924,7 +935,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_14425-2.png": {
+        "n02374451_14425-2.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -935,7 +946,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_5084-3.png": {
+        "n02374451_5084-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -946,7 +957,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_2616-9.png": {
+        "n02374451_2616-9.png": {
             "Level of details": "mid-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -957,7 +968,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/horse/n02374451_10669-1.png": {
+        "n02374451_10669-1.png": {
             "Level of details": "low-level",
             "Edges": "neat trembling lines",
             "Color saturation": "low",
@@ -968,7 +979,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_929-1.png": {
+        "n02374451_929-1.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -979,7 +990,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_2825-1.png": {
+        "n02374451_2825-1.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -990,7 +1001,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_14233-5.png": {
+        "n02374451_14233-5.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -1001,7 +1012,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_15440-3.png": {
+        "n02374451_15440-3.png": {
             "Level of details": "low-level",
             "Edges": "neat trembling lines",
             "Color saturation": "low",
@@ -1012,7 +1023,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/8534.png": {
+        "8534.png": {
             "Level of details": "low-level",
             "Edges": "trembling imprecise lines",
             "Color saturation": "low",
@@ -1023,7 +1034,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_14846-5.png": {
+        "n02374451_14846-5.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -1034,7 +1045,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/horse/n02374451_10761-3.png": {
+        "n02374451_10761-3.png": {
             "Level of details": "low-level",
             "Edges": "neat trembling lines",
             "Color saturation": "low",
@@ -1045,7 +1056,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_17634-4.png": {
+        "n02374451_17634-4.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -1056,7 +1067,7 @@
             "Texture": "no",
             "Perspective": "yes, realistic"
         },
-        "sketch/horse/n02374451_17474-4.png": {
+        "n02374451_17474-4.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -1067,7 +1078,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_2248-3.png": {
+        "n02374451_2248-3.png": {
             "Level of details": "low-level",
             "Edges": "neat lines",
             "Color saturation": "low",
@@ -1078,7 +1089,7 @@
             "Texture": "no",
             "Perspective": "no, unrealistic"
         },
-        "sketch/horse/n02374451_1234-5.png": {
+        "n02374451_1234-5.png": {
             "Level of details": "low-level",
             "Edges": "imprecise lines",
             "Color saturation": "low",
@@ -1088,6 +1099,6 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
-        }             
+        }          
     }  
 }  

@@ -1,6 +1,5 @@
 {  
-    "Photo": {
-        "House": {
+        "house": {
             "pic_079.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -244,7 +243,7 @@
                 "Perspective": "yes, realistic"
             }
         },
-        "Giraffe": {
+        "giraffe": {
             "n02439033_13868.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -367,7 +366,7 @@
                 "Perspective": "yes, realistic"
             }
         },
-        "Person": {
+        "person": {
             "253_0341.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -600,7 +599,7 @@
                 "Perspective": "yes, realistic"
             }
         },
-        "Elephant": {
+        "elephant": {
             "n02503517_10558.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -745,7 +744,7 @@
                 "Perspective": "yes, realistic"
             }       
         },
-        "Horse": {
+        "horse": {
             "105_0181.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -890,7 +889,7 @@
                 "Perspective": "yes, realistic"
             }
         },
-        "Dog": {
+        "dog": {
             "056_0052.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -1002,7 +1001,7 @@
                 "Perspective": "yes, realistic"
             }
         },
-        "Guitar": {
+        "guitar": {
             "063_0042.jpg": {
                 "Level of details": "high",
                 "Edges": "precise lines",
@@ -1103,5 +1102,4 @@
                 "Perspective": "yes, realistic"
             }
         }
-    }
 }
