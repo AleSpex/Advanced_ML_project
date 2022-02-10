@@ -329,6 +329,17 @@
             "Text": "no",
             "Texture": "no",
             "Perspective": "no, unrealistic"
+        },
+        "n02103406_3108-2.png": {
+            "Level of details": "low-level",
+            "Edges": "neat imprecise lines",
+            "Color saturation": "low",
+            "Color shades": "no",
+            "Background": "white",
+            "Single instance": "yes",
+            "Text": "no",
+            "Texture": "no",
+            "Perspective": "no, unrealistic"
         }
     },
     "person":{

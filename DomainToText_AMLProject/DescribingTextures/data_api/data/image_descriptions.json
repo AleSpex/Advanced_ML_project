@@ -1112,6 +1112,10 @@
 		"category": "photo",
 		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of brown", "yes", "no", "yes, photo", "yes, realistic"]
 	}, {
+		"image_name": "photo/giraffe/n02439033_9257.jpg",
+		"category": "photo",
+		"descriptions": ["high-level", "precise lines", "mid", "no", "light brown with shades of gray", "yes", "no", "yes, photo", "yes, realistic"]
+	}, {
 		"image_name": "photo/person/253_0341.jpg",
 		"category": "photo",
 		"descriptions": ["high", "precise lines", "mid", "no", "brown and white colored", "yes", "no", "yes, photo", "yes, realistic"]
@@ -1445,6 +1449,10 @@
 		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
 	}, {
 		"image_name": "sketch/dog/n02103406_3326-8.png",
+		"category": "sketch",
+		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
+	}, {
+		"image_name": "sketch/dog/n02103406_3108-2.png",
 		"category": "sketch",
 		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
 	}, {

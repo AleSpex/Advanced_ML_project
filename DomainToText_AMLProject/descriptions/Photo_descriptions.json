@@ -364,6 +364,17 @@
                 "Text": "no",
                 "Texture": "yes, photo",
                 "Perspective": "yes, realistic"
+            },
+            "n02439033_9257.jpg": {
+                "Level of details": "high-level",
+                "Edges": "precise lines",
+                "Color saturation": "mid",
+                "Color shades": "no",
+                "Background": "light brown with shades of gray",
+                "Single instance": "yes",
+                "Text": "no",
+                "Texture": "yes, photo",
+                "Perspective": "yes, realistic"
             }
         },
         "person": {
