@@ -1,1603 +1,1603 @@
 [{
-		"image_name": "art_painting/house/pic_226.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "no", "blue and white on the upper zone, black and green in the lower zone", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_297.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "no", "green-colored surrounding the house, white with shades of blue on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_308.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "high", "no", "green with parts of red, purple and white on the lower right, white on the lower left, yellow with shades of blue on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_046.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "mid", "no", "green-colored with parts of brown and red", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/house/pic_074.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "high", "no", "black with yellow parts", "no, sixteen", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/house/pic_318.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "low", "yes, grayscale", "green-colored with shades of gray on the lower zone and white on the upper zone", "no, three", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_051.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "high", "no", "orange with shades of green and brown on the center zone", "no, eight", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/house/pic_305.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "high", "yes, colorful", "green with shades of yellow on the center zone, blue with shades of green on the upper zone, green with shades of yellow on the left zone, blue with shades of yellow and red on the lower zone", "no, two", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_027.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "high", "yes, grayscale", "yellow with shades of green on the upper right zone,blue with shades of white on the left zone, green with shades of yellow on the lower right zone", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_208.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "high", "yes, colorful", "green-colored with shades of red on the lower zone, blue-colored with shades of yellow and orange on the upper zone", "no, two", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/house/pic_292.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "solid yellow lines", "mid", "yes, colorful", "red-colored with shades of yellow", "no, two", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_169.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "solid black lines", "low", "no", "green-colored with parts of blue on the lower zone, white-colored with shades of blue on the upper zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_002.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "high", "yes, colorful", "yellow-colored on the upper zone and red and green colored on the sides", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_320.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "low", "yes, colorful", "yellow-colored on the upper zone, brown-colored with shades of yellow on the lower zone, green-colored on the right zone", "no, two", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_079.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "trembling brush strokes", "high", "yes, colorful", "orange-colored with shades of yellow and parts of gray on the lower zone, blue on the upper zone", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/house/pic_101.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue-colored with shades of white on the upper zone, green colored with parts of blue, gray and white on the lower zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_089.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "intense solid black lines", "low", "yes, grayscale", "brown-colored with shades of white on the lower and center zone, white on the upper zone", "no, two", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_008.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "precise lines", "low", "no", "red-colored with shades of black and green", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_043.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "solid black lines", "mid", "yes, grayscale", "blue-colored with shades of white on the center zone, white-colored on the frame", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_095.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "black lines", "high", "yes, colorful", "red, green and yellow colored with a black cross on the center zone", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_126.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "low", "no", "brown-colored on the lower and upper zone, blue-colored on the center zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_152.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "high", "yes, colorful", "black-colored on the upper zone, yello-colored with shades of red on the lower zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_088.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "high", "yes, colorful", "black-colored with shades of green and purple", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_093.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "yes, colorful", "blue-colored with shades of brown", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_135.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "black precise lines", "high", "yes, colorful", "green, white, orange and blue colored on the lower zone, green-colored with shades of yellow on the rifgt zone, blue-colored with shades of white on the upper left zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_183.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "intense orange lines", "mid", "no", "black-colored with a white frame", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_106.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "neat brush strokes", "high", "yes, colorful", "brown-colored with shades of red and parts of green and yellow on the center zone, white-colored with shades of blue and parts of green on the upper left zone, green-colored with parts of red, black and brown on the lower zone, yellow-colored on the upper right zone", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_027.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "trembling brush strokes", "mid", "yes, colorful", "black-colored with shades of blue and white", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_053.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue-colored with shades of white, green and red on the upper zone, red-colored on the lower left zone, yellow-colored with shades of yellow on the lower right zone", "yes", "yes, dense text", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_153.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "intense black lines", "mid", "no", "red-colored", "yes", "yes, sparse text", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_036.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "trembling brush strokes", "high", "yes, colorful", "blue-colored with shades of purple, red, green and yellow", "no, three", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_087.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "intense white lines", "mid", "no", "red-colored with shades of brown and white stripes", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_114.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "trembling brush strokes", "high", "yes, colorful", "blue-colored with shades of green and black and white parts on the left zone, brown-colored with shades of yellow and black and white parts on the right zone", "yes", "yes, dense text", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/guitar/pic_012.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat black brush strokes", "mid", "yes, colorful", "yellow-colored with shades of red", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_034.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "brown-colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_134.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "trembling brush strokes", "mid", "yes, colorful", "yellow-colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_049.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "None", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_053.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "no", "brown-colored on the lower zone, green and light blue colored on the upper zone", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_122.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "blue and yellow colored", "no, two", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_031.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "high", "yes, colorful", "black-colored", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_173.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "green-colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/horse/pic_229.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "low", "no", "yellow-colored with shdes of brown", "no, four", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_089.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "intense and trembling lines", "mid", "yes, colorful", "green-colored with shades of white", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_244.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "no", "green-colored on the left zone, green and red colored on the right zone", "no, two", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_223.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "no", "red and orange colored with green parts", "yes", "yes, dense text", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_137.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "trembling lines", "mid", "no", "white-colored", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_311.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "yellow-colored on the center and left zone, red-colored on the right zone, green, yellow and red colored on the lower zone", "no, three", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_344.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "intense white lines", "mid", "no", "brown and blue colored with white parts on the lower zone, green-colored with shades of blue and red on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_177.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "trembling lines", "mid", "yes, grayscale", "white-colored", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/dog/pic_259.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "low", "yes, grayscale", "white-colored with shades of gray", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_208.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise brush strokes", "mid", "yes, colorful", "orange-colored with shades of blue and green", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_130.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "green and yellow colored with shades of red and blue", "no, two", "yes, dense text", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_087.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "mid", "yes, colorful", "yellow-colored with shades of green and purple", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_174.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "white-colored", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_027.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "high", "yes, colorful", "white-colored with shades of blue, green and yellow", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_070.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "precise brush strokes", "high", "yes, colorful", "white-colored", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_089.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "low", "yes, colorful", "green, red and brown colored on the lower zone, blue and green colored on the upper zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_009.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "yes, colorful", "black-colored with white parts", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_131.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "high", "yes, colorful", "blue-colored with shades of white", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_238.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "high", "yes, colorful", "yellow-colored with shades of blue", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_223.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "green and blue colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_064.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "blue and red colored with shades of green", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_024.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "high", "yes, colorful", "white-colored with blue, green and yellow parts", "yes", "yes, dense text", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_153.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "low", "yes, colorful", "blue-colored with shades of yellow and a white frame", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_053.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "high", "yes, colorful", "white-colored", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_149.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise brush strokes", "mid", "yes, colorful", "cream-colored with shades of gray", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/elephant/pic_081.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "neat brush strokes", "high", "yes, colorful", "light blue, yellow and green colored", "yes", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_121.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise brush strokes", "low", "yes, colorful", "green-colored with shades of red, yellow and blue", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_091.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise brush strokes", "high", "yes, colorful", "white-colored with shades of red and yellow", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_278.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "definite black lines", "low", "yes, colorful", "gray-colored with shades of blue and a beige frame", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_198.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "precise brush strokes", "high", "yes, colorful", "green-colored with shades of yellow", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_105.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "yes, colorful", "red-colored on the lower zone, blue-colored with white parts on the center zone, red and blue colored on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_140.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "trembling brusg strokes", "mid", "yes, colorful", "light blue colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_023.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise brush strokes", "high", "yes, colorful", "yellow-colored with shades of green on the lower zone, green-colored with shades of yellow and gray parts on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_164.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise black lines", "low", "yes, grayscale", "brown-colored on the lower zone, blue-colored with shades of brown on the center and upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_125.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "mid", "yes, colorful", "white-colored with orange parts", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_005.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "yes, colorful", "yellow-colored with white shades and a blue-colored with red and green shades part on the right zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_159.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "imprecise brush strokes", "low", "yes, grayscale", "gray-colored with white shades", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_152.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "yes, colorful", "black, red, yellow, green, blue and purple colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_155.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "high", "yes, colorful", "red-colored with shades of orange, black and yellow", "yes", "yes, dense text", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/giraffe/pic_195.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "mid", "no", "yellow-colored with white shades", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_388.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "low", "yes, colorful", "blue-colored on the lower zone, yellow-colored with shades of red on the upper zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_272.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "mid", "no", "yellow-colored with shades of brown", "no, three", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/person/pic_078.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "cyan-colored with gray parts on the upper zone, brown-colored on the lower zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_012.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "neat brush strokes", "high", "yes, colorful", "red, yellow, blue and orange colored", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_553.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "yes, grayscale", "green-colored with shades of white", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_292.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "precise lines", "mid", "yes, colorful", "brown-colored with shades of blue and parts of gray on the lower zone, blue-colored with parts of green and white on the upper zone", "no, five", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_219.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "intense black lines", "high", "yes, colorful", "yellow-colored with red shades", "no, three", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_349.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "neat brush strokes", "low", "yes, colorful", "yellow-colored with shades of white on the lower left zone, purple-colored with shades of green and blue and yellow parts on the center and upper zone, blue-colored with shades of white on the left zone", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_115.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "white lines", "mid", "yes, grayscale", "gray-colored with yellow and blue parts", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_215.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "no", "white-colored with green parts on the left zone, gray-colored with white parts on the right zone", "no, two", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_181.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "yes, grayscale", "blue and white colored on the center zone, green-colored with red and yellow parts on the lower zone, gray-colored with yellow parts on the upper zone", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_537.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "neat brush strokes", "low", "yes, grayscale", "brown and pink colored on the upper zone, brown and green colored on the center zone, brown-colored on the lower zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_530.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "intense white lines", "mid", "yes, colorful", "white-colored with shades of blue on the center zone, green-colored on the left zone and red-colored on the right zone", "no, nine", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_291.jpg",
-		"category": "art_painting",
-		"descriptions": ["mid", "precise lines", "mid", "yes,colorful", "blue and green colored", "yes", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_371.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "no", "brown and green colored on the center zone, brown and blue colored on the upper zone, white colored on the lower zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_345.jpg",
-		"category": "art_painting",
-		"descriptions": ["low", "solid black lines", "low", "yes, colorful", "white and green colored", "no, two", "no", "yes, painting", "no, unrealistic"]
-	}, {
-		"image_name": "art_painting/person/pic_113.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "mid", "yes, colorful", "brown-colored on the right zone, green, blue and brown colored on the left zone", "no, four", "no", "yes, painting", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_112.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "trembling and intense lines", "mid", "yes, colorful", "gray-colored with shades of yellow", "yes", "yes, dense text", "no", "yes, realistic"]
-	}, {
-		"image_name": "art_painting/person/pic_260.jpg",
-		"category": "art_painting",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "gray-colored with shades of black and white", "yes", "yes, dense text", "yes, painting", "yes, realistic"]
-	},
-	{
-		"image_name": "cartoon/house/pic_029.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_042.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_044.jpg",
-		"category": "cartoon",
-		"descriptions": ["blue in the top part of the image and green in the lower zone", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_046.jpg",
-		"category": "cartoon",
-		"descriptions": ["white in the top part of the image and green in the lower zone", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_047.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_056.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_059.jpg",
-		"category": "cartoon",
-		"descriptions": ["blue in the top part of the image and green in the lower zone", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_062.jpg",
-		"category": "cartoon",
-		"descriptions": ["blue in the top part of the image, green in the lower zone and a yellow spot in the top left corner", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_121.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, hand drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_177.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_195.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, three", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_286.jpg",
-		"category": "cartoon",
-		"descriptions": ["white with shadow of blue and yellow in the middle zone and blue with shadow of white in the top part", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, six", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/house/pic_327.jpg",
-		"category": "cartoon",
-		"descriptions": ["white in the bottom part of the image and teal in the mid and top zone full of white spots", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, dense text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/guitar/pic_003.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/guitar/pic_023.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/guitar/pic_066.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/guitar/pic_098.jpg",
-		"category": "cartoon",
-		"descriptions": ["yellow in the top right part purple in the left part and white with some green in the lower part", "high", "yes, colorful", "not well definite", "low-level", "no, unrealistic", "no, three istance", "no", "no, hand drawing"]
-	}, {
-		"image_name": "cartoon/guitar/pic_111.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_036.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_038.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_042.jpg",
-		"category": "cartoon",
-		"descriptions": ["white with a green circle in the middle", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_094.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_098.jpg",
-		"category": "cartoon",
-		"descriptions": ["purple with shadow of white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_108.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_124.jpg",
-		"category": "cartoon",
-		"descriptions": ["white with a green circle", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_159.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, two", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_217.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_343.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse-text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/horse/pic_352.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_025.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_048.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_061.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "mid-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_094.jpg",
-		"category": "cartoon",
-		"descriptions": ["white, black bar at the bottom of the image", "vivid colors", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_100.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_110.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_124.jpg",
-		"category": "cartoon",
-		"descriptions": ["white on the upper zone and light-purple on the lower zone", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_163.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite ", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_210.jpg",
-		"category": "cartoon",
-		"descriptions": ["white with a purple circle", "mid", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_217.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_221.jpg",
-		"category": "cartoon",
-		"descriptions": ["white with a green circle in the lower zone", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_229.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_232.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_249.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_298.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_305.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_330.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_350.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_354.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_356.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_365.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/dog/pic_415.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_003.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_015.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_022.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_120.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_125.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_129.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_130.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_169.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_181.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_250.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_262.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_265.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_366.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, dense text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_411.jpg",
-		"category": "cartoon",
-		"descriptions": ["black", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_421.jpg",
-		"category": "cartoon",
-		"descriptions": ["white at the edges and blue in the middle", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_425.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_447.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_453.jpg",
-		"category": "cartoon",
-		"descriptions": ["light blue", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, dense text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_484.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/elephant/pic_505.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_006.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_069.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_085.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, two", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_180.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_195.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "mid-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_212.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, two", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_239.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_307.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_364.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "yes, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_382.jpg",
-		"category": "cartoon",
-		"descriptions": ["green in the lower part and cyano from the mid upper zone", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/giraffe/pic_384.jpg",
-		"category": "cartoon",
-		"descriptions": ["green monochrome", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_057.jpg",
-		"category": "cartoon",
-		"descriptions": ["blue monochromo", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_065.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_067.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_068.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_078.jpg",
-		"category": "cartoon",
-		"descriptions": ["green monochromo", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_146.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_148.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_169.jpg",
-		"category": "cartoon",
-		"descriptions": ["white and a blue circle", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_195.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_203.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "yes, sparse text", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_228.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_237.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_241.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, grayscale", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_262.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_268.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_284.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, five", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_305.jpg",
-		"category": "cartoon",
-		"descriptions": ["white", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "yes", "no", "no, digital drawing"]
-	}, {
-		"image_name": "cartoon/person/pic_424.jpg",
-		"category": "cartoon",
-		"descriptions": ["beige", "high", "yes, colorful", "definite", "low-level", "no, unrealistic", "no, four", "no", "no, digital drawing"]
-	}, {
-		"image_name": "photo/house/pic_079.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "yes, colorful", "blue-colored with shades of white on the upper zone, green and white colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_154.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue-colored on the upper zone, green, white and gray colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_078.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "high", "no", "blue and green colored on the upper zone, green, white and gray colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_039.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "light blue and green colored on the upper zone, brown and gray colored on the lower zone", "no, two", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_253.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue and green colored on the upper zone, gray and green colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_004.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "high", "no", "blue and white colored on the upper zone, green and gray colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_057.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "high", "no", "white and blue colored on the upper zone, green colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_125.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "blue and white colored on the upper zone, green and gray colored on the lower zone", "yes", "yes, dense text", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_229.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white and green colored on the upper zone, green and gray colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_255.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "low", "no", "white-colored with shades of blue and green parts on the left side", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_061.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green and white in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_140.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, light blue and white in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_111.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue and white in the upper zone, green in the middle and white in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_181.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green on the sides and shades of gray in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_144.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "blue in the upper zone, green on the right and in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_286.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of green and light blue in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_104.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "blue and white in the upper zone, shades of green and yellow and gray in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_067.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "blue in the upper zone, green and yellow in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_056.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue and white in the upper zone, shades of green, gray and brown in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_273.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of blue and green", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_003.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, blue and white in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/house/pic_264.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/063_0042.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/n02676566_4605.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/n02676566_12344.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "yes, grayscale", "brown, red and green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/063_0056.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white and black colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/063_0029.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/063_0085.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "cream colored", "yes", "no", "yes, photo", "no, unrealistic"]
-	}, {
-		"image_name": "photo/guitar/n03272010_5483.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light gray", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/n02676566_4058.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "blue", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/guitar/063_0062.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "dark gray", "no, seven", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0181.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "green and brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/n02374451_1443.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white and brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/n02374451_54.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "gray and green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/n02374451_3388.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "yes, grayscale", "black colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0018.jpg",
-		"category": "photo",
-		"descriptions": ["mid", "precise lines", "low", "yes, grayscale", "green and white colored on the upper zone, yellow colored on the lower zone", "no, two", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0013.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0071.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of green", "no, four", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0099.jpg",
-		"category": "photo",
-		"descriptions": ["mid-level", "precise lines", "mid", "no", "shades of gray", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0175.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "gray and green in the upper zone, shades of blue and green in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/n02374451_2733.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, white in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/n02374451_14399.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "brown with shades of greeh in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0196.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/horse/105_0269.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0052.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "brown colored", "no, two", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/n02103406_936.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue, gray and brown colored with a white and orange part", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/n02103406_2954.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "brown and green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0084.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green with shades of yellow and white", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0097.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "brown with shades of green", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0054.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "cream-colored with shades of pink and yellow on the left zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0041.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light brown in the lower zone, blue and white in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/056_0098.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green and brown", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/n02109525_5013.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/dog/n02103406_5224.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/n02503517_10558.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "green colored on the lower zone, green and white colored with shades of gray on the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/n02503517_5892.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "blue colored on the upper zone, yellow colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0101.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "gray colored on the lower zone, green colored on the upper zone", "no, two", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0013.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "gray colored on the lower zone, green colored on the upper zone", "no, two", "yes, dense text", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0064.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "yellow colored on the lower zone, black and white colored on the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/n02503517_3799.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "low", "no", "yellow and brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0057.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "yellow and green colored on the lower zone, blue colored on the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0072.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of green in the upper zone, light yellow in the lower zone", "no, three", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/n02503517_4253.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green in the upper zone, brown in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0124.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, light blue with shades of gray in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0127.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "grayscale", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0006.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light yellow in the lower zone, light blue in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/elephant/064_0038.jpg",
-		"category": "photo",
-		"descriptions": ["mid-level", "precise lines", "mid", "no", "shades of gray in the lower zone, shades of yellow and orange and green in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_13868.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "low", "no", "gray and green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/084_0035.jpg",
-		"category": "photo",
-		"descriptions": ["low", "precise lines", "mid", "no", "white and blue colored on the upper zone, green colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_1327.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "yellow, green and white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_3944.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "high", "no", "yellow and green colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/084_0071.jpg",
-		"category": "photo",
-		"descriptions": ["mid", "precise lines", "mid", "yes, colorful", "black colored on the lower zone, black and white colored on the upper zone", "no, two", "yes, dense text", "no", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/084_0063.jpg",
-		"category": "photo",
-		"descriptions": ["low", "precise lines", "low", "yes, grayscale", "gray colored with shades of white on the upper zone, black colored on the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_16356.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "green and brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_10130.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of yellow and gray", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_14121.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of green", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/084_0033.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light blue", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_569.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of brown", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/giraffe/n02439033_9257.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "light brown with shades of gray", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0341.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "brown and white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0357.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "brown colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0364.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0253.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "yellow, white and blue colored on the left, red, green, white and blue colored on the right", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0377.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "green and white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0136.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "white colored on the left, green colored on the right", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0279.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "gray and white colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0296.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "low", "yes, grayscale", "green and brown colored on the lower zone, green and white colored on the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0083.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "no", "gray colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0065.jpg",
-		"category": "photo",
-		"descriptions": ["high", "precise lines", "mid", "yes, colorful", "gray colored", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0146.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "brown on the right zone and dark green on the left zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0173.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of brown and black on the right", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0149.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of orange, light blue and white", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0385.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of orange, yellow, red and black in the upper zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0220.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "gray with shades of green", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0268.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white in the upper zone and light blue in the lower zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0399.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white and shades of brown in the right zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0345.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of brown and gray", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0233.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "shades of white, gray, black and yellow", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0139.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "brown, orange, white, yellow and shades of light blue", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "photo/person/253_0227.jpg",
-		"category": "photo",
-		"descriptions": ["high-level", "precise lines", "mid", "no", "white on the left zone and shades of gray, green and yellow on the right zone", "yes", "no", "yes, photo", "yes, realistic"]
-	}, {
-		"image_name": "sketch/house/8873.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/house/8848.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/guitar/n03467517_6423-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/guitar/n03467517_12925-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_4469-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_9254-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_4058-1.png",
-		"category": "sketch",
-		"descriptions": ["mid-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_6704-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n03272010_6718-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/guitar/n03467517_22785-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_4605-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/7607.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/7614.png",
-		"category": "sketch",
-		"descriptions": ["mid-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/guitar/n02676566_9243-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_490-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_12230-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_11894-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_15440-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_14425-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_5084-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_2616-9.png",
-		"category": "sketch",
-		"descriptions": ["mid-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_10669-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_929-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_2825-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_14233-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_15440-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/8534.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_14846-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_10761-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_17634-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_17474-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_2248-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/horse/n02374451_1234-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_18402-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_2706-9.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "solid yet trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_928-11.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/5322.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_15858-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02109525_6693-3.png",
-		"category": "sketch",
-		"descriptions": ["mid-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_8421-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_8362-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_6530-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/5317.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_5505-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_2706-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_7521-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_371-7.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02109525_12875-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_3132-7.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_1247-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_5601-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_3255-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02109525_9037-7.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_5001-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_6688-9.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/5297.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_928-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_1922-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_1138-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02106662_5001-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02109525_5013-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_8362-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_3326-8.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/dog/n02103406_3108-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_2547-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_9241-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_2993-9.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_8137-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_9421-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_3879-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_6624-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_2802-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_7592-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_7173-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_8222-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_5418-8.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_2993-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_6661-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_9827-7.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_9270-7.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/elephant/n02503517_792-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_9472-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_10919-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_5004-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_16085-3.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_15005-5.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_14040-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_15540-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes, realistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_2486-6.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_67-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_628-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_11059-1.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_15555-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_1327-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_991-2.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/giraffe/n02439033_12413-4.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/person/12187.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/person/12115.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/person/12195.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}, {
-		"image_name": "sketch/person/12167.png",
-		"category": "sketch",
-		"descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no, unrealistic"]
-	}
+    "image_name": "art_painting/house/pic_226.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "no", "blue and white on the upper zone, black and green in the lower zone", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_297.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "no", "green-colored surrounding the house, white with shades of blue on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_308.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "high", "no", "green with parts of red, purple and white on the lower right, white on the lower left, yellow with shades of blue on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_046.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "mid", "no", "green-colored with parts of brown and red", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/house/pic_074.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "high", "no", "black with yellow parts", "no sixteen", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/house/pic_318.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "low", "yes grayscale", "green-colored with shades of gray on the lower zone and white on the upper zone", "no three", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_051.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "high", "no", "orange with shades of green and brown on the center zone", "no eight", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/house/pic_305.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "high", "yes colorful", "green with shades of yellow on the center zone, blue with shades of green on the upper zone, green with shades of yellow on the left zone, blue with shades of yellow and red on the lower zone", "no two", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_027.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "high", "yes grayscale", "yellow with shades of green on the upper right zone,blue with shades of white on the left zone, green with shades of yellow on the lower right zone", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_208.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "high", "yes colorful", "green-colored with shades of red on the lower zone, blue-colored with shades of yellow and orange on the upper zone", "no two", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/house/pic_292.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "solid yellow lines", "mid", "yes colorful", "red-colored with shades of yellow", "no two", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_169.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "solid black lines", "low", "no", "green-colored with parts of blue on the lower zone, white-colored with shades of blue on the upper zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_002.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "high", "yes colorful", "yellow-colored on the upper zone and red and green colored on the sides", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_320.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "low", "yes colorful", "yellow-colored on the upper zone, brown-colored with shades of yellow on the lower zone, green-colored on the right zone", "no two", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_079.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "trembling brush strokes", "high", "yes colorful", "orange-colored with shades of yellow and parts of gray on the lower zone, blue on the upper zone", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/house/pic_101.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue-colored with shades of white on the upper zone, green colored with parts of blue, gray and white on the lower zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_089.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "intense solid black lines", "low", "yes grayscale", "brown-colored with shades of white on the lower and center zone, white on the upper zone", "no two", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_008.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "precise lines", "low", "no", "red-colored with shades of black and green", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_043.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "solid black lines", "mid", "yes grayscale", "blue-colored with shades of white on the center zone, white-colored on the frame", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_095.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "black lines", "high", "yes colorful", "red, green and yellow colored with a black cross on the center zone", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_126.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "low", "no", "brown-colored on the lower and upper zone, blue-colored on the center zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_152.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "high", "yes colorful", "black-colored on the upper zone, yello-colored with shades of red on the lower zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_088.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "high", "yes colorful", "black-colored with shades of green and purple", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_093.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "yes colorful", "blue-colored with shades of brown", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_135.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "black precise lines", "high", "yes colorful", "green, white, orange and blue colored on the lower zone, green-colored with shades of yellow on the rifgt zone, blue-colored with shades of white on the upper left zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_183.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "intense orange lines", "mid", "no", "black-colored with a white frame", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_106.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "neat brush strokes", "high", "yes colorful", "brown-colored with shades of red and parts of green and yellow on the center zone, white-colored with shades of blue and parts of green on the upper left zone, green-colored with parts of red, black and brown on the lower zone, yellow-colored on the upper right zone", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_027.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "trembling brush strokes", "mid", "yes colorful", "black-colored with shades of blue and white", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_053.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue-colored with shades of white, green and red on the upper zone, red-colored on the lower left zone, yellow-colored with shades of yellow on the lower right zone", "yes", "yes dense text", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_153.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "intense black lines", "mid", "no", "red-colored", "yes", "yes sparse text", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_036.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "trembling brush strokes", "high", "yes colorful", "blue-colored with shades of purple, red, green and yellow", "no three", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_087.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "intense white lines", "mid", "no", "red-colored with shades of brown and white stripes", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_114.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "trembling brush strokes", "high", "yes colorful", "blue-colored with shades of green and black and white parts on the left zone, brown-colored with shades of yellow and black and white parts on the right zone", "yes", "yes dense text", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/guitar/pic_012.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat black brush strokes", "mid", "yes colorful", "yellow-colored with shades of red", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_034.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "brown-colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_134.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "trembling brush strokes", "mid", "yes colorful", "yellow-colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_049.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "None", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_053.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "no", "brown-colored on the lower zone, green and light blue colored on the upper zone", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_122.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "blue and yellow colored", "no two", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_031.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "high", "yes colorful", "black-colored", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_173.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "green-colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/horse/pic_229.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "low", "no", "yellow-colored with shdes of brown", "no four", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/dog/pic_089.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "intense and trembling lines", "mid", "yes colorful", "green-colored with shades of white", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/dog/pic_244.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "no", "green-colored on the left zone, green and red colored on the right zone", "no two", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/dog/pic_223.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "no", "red and orange colored with green parts", "yes", "yes dense text", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/dog/pic_137.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "trembling lines", "mid", "no", "white-colored", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/dog/pic_311.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "yellow-colored on the center and left zone, red-colored on the right zone, green, yellow and red colored on the lower zone", "no three", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/dog/pic_344.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "intense white lines", "mid", "no", "brown and blue colored with white parts on the lower zone, green-colored with shades of blue and red on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/dog/pic_177.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "trembling lines", "mid", "yes grayscale", "white-colored", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/dog/pic_259.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "low", "yes grayscale", "white-colored with shades of gray", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_208.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise brush strokes", "mid", "yes colorful", "orange-colored with shades of blue and green", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_130.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "green and yellow colored with shades of red and blue", "no two", "yes dense text", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_087.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "mid", "yes colorful", "yellow-colored with shades of green and purple", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_174.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "white-colored", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_027.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "high", "yes colorful", "white-colored with shades of blue, green and yellow", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_070.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "precise brush strokes", "high", "yes colorful", "white-colored", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_089.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "low", "yes colorful", "green, red and brown colored on the lower zone, blue and green colored on the upper zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_009.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "yes colorful", "black-colored with white parts", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_131.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "high", "yes colorful", "blue-colored with shades of white", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_238.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "high", "yes colorful", "yellow-colored with shades of blue", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_223.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "green and blue colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_064.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "blue and red colored with shades of green", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_024.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "high", "yes colorful", "white-colored with blue, green and yellow parts", "yes", "yes dense text", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_153.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "low", "yes colorful", "blue-colored with shades of yellow and a white frame", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_053.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "high", "yes colorful", "white-colored", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_149.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise brush strokes", "mid", "yes colorful", "cream-colored with shades of gray", "yes", "yes dense text", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/elephant/pic_081.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "neat brush strokes", "high", "yes colorful", "light blue, yellow and green colored", "yes", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_121.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise brush strokes", "low", "yes colorful", "green-colored with shades of red, yellow and blue", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_091.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise brush strokes", "high", "yes colorful", "white-colored with shades of red and yellow", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_278.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "definite black lines", "low", "yes colorful", "gray-colored with shades of blue and a beige frame", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_198.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "precise brush strokes", "high", "yes colorful", "green-colored with shades of yellow", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_105.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "yes colorful", "red-colored on the lower zone, blue-colored with white parts on the center zone, red and blue colored on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_140.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "trembling brusg strokes", "mid", "yes colorful", "light blue colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_023.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise brush strokes", "high", "yes colorful", "yellow-colored with shades of green on the lower zone, green-colored with shades of yellow and gray parts on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_164.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise black lines", "low", "yes grayscale", "brown-colored on the lower zone, blue-colored with shades of brown on the center and upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_125.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "mid", "yes colorful", "white-colored with orange parts", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_005.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "yes colorful", "yellow-colored with white shades and a blue-colored with red and green shades part on the right zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_159.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "imprecise brush strokes", "low", "yes grayscale", "gray-colored with white shades", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_152.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "yes colorful", "black, red, yellow, green, blue and purple colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_155.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "high", "yes colorful", "red-colored with shades of orange, black and yellow", "yes", "yes dense text", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/giraffe/pic_195.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "mid", "no", "yellow-colored with white shades", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_388.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "low", "yes colorful", "blue-colored on the lower zone, yellow-colored with shades of red on the upper zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_272.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "mid", "no", "yellow-colored with shades of brown", "no three", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/person/pic_078.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "cyan-colored with gray parts on the upper zone, brown-colored on the lower zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_012.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "neat brush strokes", "high", "yes colorful", "red, yellow, blue and orange colored", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_553.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "yes grayscale", "green-colored with shades of white", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_292.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "precise lines", "mid", "yes colorful", "brown-colored with shades of blue and parts of gray on the lower zone, blue-colored with parts of green and white on the upper zone", "no five", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_219.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "intense black lines", "high", "yes colorful", "yellow-colored with red shades", "no three", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_349.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "neat brush strokes", "low", "yes colorful", "yellow-colored with shades of white on the lower left zone, purple-colored with shades of green and blue and yellow parts on the center and upper zone, blue-colored with shades of white on the left zone", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_115.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "white lines", "mid", "yes grayscale", "gray-colored with yellow and blue parts", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_215.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "no", "white-colored with green parts on the left zone, gray-colored with white parts on the right zone", "no two", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_181.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "yes grayscale", "blue and white colored on the center zone, green-colored with red and yellow parts on the lower zone, gray-colored with yellow parts on the upper zone", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_537.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "neat brush strokes", "low", "yes grayscale", "brown and pink colored on the upper zone, brown and green colored on the center zone, brown-colored on the lower zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_530.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "intense white lines", "mid", "yes colorful", "white-colored with shades of blue on the center zone, green-colored on the left zone and red-colored on the right zone", "no nine", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_291.jpg",
+    "category": "art_painting",
+    "descriptions": ["mid", "precise lines", "mid", "yes colorful", "blue and green colored", "yes", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_371.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "no", "brown and green colored on the center zone, brown and blue colored on the upper zone, white colored on the lower zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_345.jpg",
+    "category": "art_painting",
+    "descriptions": ["low", "solid black lines", "low", "yes colorful", "white and green colored", "no two", "no", "yes painting", "no unrealistic"]
+}, {
+    "image_name": "art_painting/person/pic_113.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "mid", "yes colorful", "brown-colored on the right zone, green, blue and brown colored on the left zone", "no four", "no", "yes painting", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_112.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "trembling and intense lines", "mid", "yes colorful", "gray-colored with shades of yellow", "yes", "yes dense text", "no", "yes realistic"]
+}, {
+    "image_name": "art_painting/person/pic_260.jpg",
+    "category": "art_painting",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "gray-colored with shades of black and white", "yes", "yes dense text", "yes painting", "yes realistic"]
+},
+{
+    "image_name": "cartoon/house/pic_029.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_042.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_044.jpg",
+    "category": "cartoon",
+    "descriptions": ["blue in the top part of the image and green in the lower zone", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_046.jpg",
+    "category": "cartoon",
+    "descriptions": ["white in the top part of the image and green in the lower zone", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_047.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_056.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_059.jpg",
+    "category": "cartoon",
+    "descriptions": ["blue in the top part of the image and green in the lower zone", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_062.jpg",
+    "category": "cartoon",
+    "descriptions": ["blue in the top part of the image, green in the lower zone and a yellow spot in the top left corner", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_121.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no hand drawing"]
+}, {
+    "image_name": "cartoon/house/pic_177.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_195.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no three", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_286.jpg",
+    "category": "cartoon",
+    "descriptions": ["white with shadow of blue and yellow in the middle zone and blue with shadow of white in the top part", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no six", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/house/pic_327.jpg",
+    "category": "cartoon",
+    "descriptions": ["white in the bottom part of the image and teal in the mid and top zone full of white spots", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes dense text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/guitar/pic_003.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/guitar/pic_023.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/guitar/pic_066.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/guitar/pic_098.jpg",
+    "category": "cartoon",
+    "descriptions": ["yellow in the top right part purple in the left part and white with some green in the lower part", "high", "yes colorful", "not well definite", "low-level", "no unrealistic", "no three istance", "no", "no hand drawing"]
+}, {
+    "image_name": "cartoon/guitar/pic_111.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_036.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_038.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_042.jpg",
+    "category": "cartoon",
+    "descriptions": ["white with a green circle in the middle", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_094.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_098.jpg",
+    "category": "cartoon",
+    "descriptions": ["purple with shadow of white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_108.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_124.jpg",
+    "category": "cartoon",
+    "descriptions": ["white with a green circle", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_159.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no two", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_217.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_343.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse-text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/horse/pic_352.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_025.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_048.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_061.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "mid-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_094.jpg",
+    "category": "cartoon",
+    "descriptions": ["white, black bar at the bottom of the image", "vivid colors", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_100.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_110.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_124.jpg",
+    "category": "cartoon",
+    "descriptions": ["white on the upper zone and light-purple on the lower zone", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_163.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite ", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_210.jpg",
+    "category": "cartoon",
+    "descriptions": ["white with a purple circle", "mid", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_217.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_221.jpg",
+    "category": "cartoon",
+    "descriptions": ["white with a green circle in the lower zone", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_229.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_232.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_249.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_298.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_305.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_330.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_350.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_354.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_356.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_365.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/dog/pic_415.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_003.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_015.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_022.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_120.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_125.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_129.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_130.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_169.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_181.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_250.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_262.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_265.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_366.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes dense text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_411.jpg",
+    "category": "cartoon",
+    "descriptions": ["black", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_421.jpg",
+    "category": "cartoon",
+    "descriptions": ["white at the edges and blue in the middle", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_425.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_447.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_453.jpg",
+    "category": "cartoon",
+    "descriptions": ["light blue", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes dense text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_484.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/elephant/pic_505.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_006.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_069.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_085.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no two", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_180.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_195.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "mid-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_212.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no two", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_239.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_307.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_364.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "yes unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_382.jpg",
+    "category": "cartoon",
+    "descriptions": ["green in the lower part and cyano from the mid upper zone", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/giraffe/pic_384.jpg",
+    "category": "cartoon",
+    "descriptions": ["green monochrome", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_057.jpg",
+    "category": "cartoon",
+    "descriptions": ["blue monochromo", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_065.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_067.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_068.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_078.jpg",
+    "category": "cartoon",
+    "descriptions": ["green monochromo", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_146.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_148.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_169.jpg",
+    "category": "cartoon",
+    "descriptions": ["white and a blue circle", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_195.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_203.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "yes sparse text", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_228.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_237.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_241.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes grayscale", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_262.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_268.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_284.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no five", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_305.jpg",
+    "category": "cartoon",
+    "descriptions": ["white", "high", "yes colorful", "definite", "low-level", "no unrealistic", "yes", "no", "no digital drawing"]
+}, {
+    "image_name": "cartoon/person/pic_424.jpg",
+    "category": "cartoon",
+    "descriptions": ["beige", "high", "yes colorful", "definite", "low-level", "no unrealistic", "no four", "no", "no digital drawing"]
+}, {
+    "image_name": "photo/house/pic_079.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "yes colorful", "blue-colored with shades of white on the upper zone, green and white colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_154.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue-colored on the upper zone, green, white and gray colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_078.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "high", "no", "blue and green colored on the upper zone, green, white and gray colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_039.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "light blue and green colored on the upper zone, brown and gray colored on the lower zone", "no two", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_253.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue and green colored on the upper zone, gray and green colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_004.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "high", "no", "blue and white colored on the upper zone, green and gray colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_057.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "high", "no", "white and blue colored on the upper zone, green colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_125.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "blue and white colored on the upper zone, green and gray colored on the lower zone", "yes", "yes dense text", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_229.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white and green colored on the upper zone, green and gray colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_255.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "low", "no", "white-colored with shades of blue and green parts on the left side", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_061.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green and white in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_140.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, light blue and white in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_111.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue and white in the upper zone, green in the middle and white in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_181.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green on the sides and shades of gray in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_144.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "blue in the upper zone, green on the right and in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_286.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of green and light blue in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_104.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "blue and white in the upper zone, shades of green and yellow and gray in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_067.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "blue in the upper zone, green and yellow in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_056.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue and white in the upper zone, shades of green, gray and brown in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_273.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of blue and green", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_003.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, blue and white in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/house/pic_264.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue in the upper zone, green in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/063_0042.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/n02676566_4605.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/n02676566_12344.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "yes grayscale", "brown, red and green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/063_0056.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white and black colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/063_0029.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/063_0085.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "cream colored", "yes", "no", "yes photo", "no unrealistic"]
+}, {
+    "image_name": "photo/guitar/n03272010_5483.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light gray", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/n02676566_4058.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "blue", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/guitar/063_0062.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "dark gray", "no seven", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0181.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "green and brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/n02374451_1443.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white and brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/n02374451_54.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "gray and green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/n02374451_3388.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "yes grayscale", "black colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0018.jpg",
+    "category": "photo",
+    "descriptions": ["mid", "precise lines", "low", "yes grayscale", "green and white colored on the upper zone, yellow colored on the lower zone", "no two", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0013.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0071.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of green", "no four", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0099.jpg",
+    "category": "photo",
+    "descriptions": ["mid-level", "precise lines", "mid", "no", "shades of gray", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0175.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "gray and green in the upper zone, shades of blue and green in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/n02374451_2733.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, white in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/n02374451_14399.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "brown with shades of greeh in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0196.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/horse/105_0269.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0052.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "brown colored", "no two", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/n02103406_936.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue, gray and brown colored with a white and orange part", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/n02103406_2954.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "brown and green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0084.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green with shades of yellow and white", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0097.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "brown with shades of green", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0054.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "cream-colored with shades of pink and yellow on the left zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0041.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light brown in the lower zone, blue and white in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/056_0098.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green and brown", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/n02109525_5013.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/dog/n02103406_5224.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/n02503517_10558.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "green colored on the lower zone, green and white colored with shades of gray on the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/n02503517_5892.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "blue colored on the upper zone, yellow colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0101.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "gray colored on the lower zone, green colored on the upper zone", "no two", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0013.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "gray colored on the lower zone, green colored on the upper zone", "no two", "yes dense text", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0064.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "yellow colored on the lower zone, black and white colored on the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/n02503517_3799.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "low", "no", "yellow and brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0057.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "yellow and green colored on the lower zone, blue colored on the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0072.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of green in the upper zone, light yellow in the lower zone", "no three", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/n02503517_4253.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green in the upper zone, brown in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0124.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "green in the lower zone, light blue with shades of gray in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0127.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "grayscale", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0006.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light yellow in the lower zone, light blue in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/elephant/064_0038.jpg",
+    "category": "photo",
+    "descriptions": ["mid-level", "precise lines", "mid", "no", "shades of gray in the lower zone, shades of yellow and orange and green in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_13868.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "low", "no", "gray and green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/084_0035.jpg",
+    "category": "photo",
+    "descriptions": ["low", "precise lines", "mid", "no", "white and blue colored on the upper zone, green colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_1327.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "yellow, green and white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_3944.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "high", "no", "yellow and green colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/084_0071.jpg",
+    "category": "photo",
+    "descriptions": ["mid", "precise lines", "mid", "yes colorful", "black colored on the lower zone, black and white colored on the upper zone", "no two", "yes dense text", "no", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/084_0063.jpg",
+    "category": "photo",
+    "descriptions": ["low", "precise lines", "low", "yes grayscale", "gray colored with shades of white on the upper zone, black colored on the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_16356.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "green and brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_10130.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of yellow and gray", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_14121.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of green", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/084_0033.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light blue", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_569.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of brown", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/giraffe/n02439033_9257.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "light brown with shades of gray", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0341.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "brown and white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0357.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "brown colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0364.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0253.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "yellow, white and blue colored on the left, red, green, white and blue colored on the right", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0377.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "green and white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0136.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "white colored on the left, green colored on the right", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0279.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "gray and white colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0296.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "low", "yes grayscale", "green and brown colored on the lower zone, green and white colored on the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0083.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "no", "gray colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0065.jpg",
+    "category": "photo",
+    "descriptions": ["high", "precise lines", "mid", "yes colorful", "gray colored", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0146.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "brown on the right zone and dark green on the left zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0173.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of brown and black on the right", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0149.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of orange, light blue and white", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0385.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of orange, yellow, red and black in the upper zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0220.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "gray with shades of green", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0268.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white in the upper zone and light blue in the lower zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0399.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white and shades of brown in the right zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0345.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white with shades of brown and gray", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0233.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "shades of white, gray, black and yellow", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0139.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "brown, orange, white, yellow and shades of light blue", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "photo/person/253_0227.jpg",
+    "category": "photo",
+    "descriptions": ["high-level", "precise lines", "mid", "no", "white on the left zone and shades of gray, green and yellow on the right zone", "yes", "no", "yes photo", "yes realistic"]
+}, {
+    "image_name": "sketch/house/8873.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/house/8848.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/guitar/n03467517_6423-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/guitar/n03467517_12925-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_4469-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_9254-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_4058-1.png",
+    "category": "sketch",
+    "descriptions": ["mid-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_6704-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n03272010_6718-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/guitar/n03467517_22785-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_4605-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/7607.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/7614.png",
+    "category": "sketch",
+    "descriptions": ["mid-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/guitar/n02676566_9243-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_490-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_12230-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_11894-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_15440-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_14425-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_5084-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_2616-9.png",
+    "category": "sketch",
+    "descriptions": ["mid-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_10669-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_929-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_2825-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_14233-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_15440-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/8534.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_14846-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_10761-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_17634-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_17474-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_2248-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/horse/n02374451_1234-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_18402-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_2706-9.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "solid yet trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_928-11.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/5322.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_15858-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02109525_6693-3.png",
+    "category": "sketch",
+    "descriptions": ["mid-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_8421-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_8362-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_6530-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/5317.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_5505-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_2706-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_7521-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_371-7.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02109525_12875-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_3132-7.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_1247-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_5601-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_3255-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02109525_9037-7.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_5001-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_6688-9.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/5297.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_928-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_1922-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_1138-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat trembling lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02106662_5001-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02109525_5013-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_8362-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_3326-8.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/dog/n02103406_3108-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_2547-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_9241-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_2993-9.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_8137-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_9421-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_3879-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_6624-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_2802-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_7592-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_7173-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_8222-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_5418-8.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_2993-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_6661-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_9827-7.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_9270-7.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/elephant/n02503517_792-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_9472-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_10919-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_5004-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_16085-3.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_15005-5.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_14040-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_15540-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "yes realistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_2486-6.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_67-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_628-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_11059-1.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_15555-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_1327-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_991-2.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/giraffe/n02439033_12413-4.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/person/12187.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/person/12115.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "trembling imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/person/12195.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "neat imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}, {
+    "image_name": "sketch/person/12167.png",
+    "category": "sketch",
+    "descriptions": ["low-level", "imprecise lines", "low", "no", "white", "yes", "no", "no", "no unrealistic"]
+}
 ]
